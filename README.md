@@ -1,4 +1,4 @@
-Apple Development, SwiftUI Tutorial
+Apple Application Development, SwiftUI Landmarks
 
 ---
 
