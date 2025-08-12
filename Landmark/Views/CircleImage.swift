@@ -1,8 +1,10 @@
 import SwiftUI
 
 struct CircleImage: View {
+    var image: Image
+    
     var body: some View {
-        Image("turtlerock")
+        image
             .resizable()
             .scaledToFit()
             .frame(width: 270)
@@ -16,6 +18,6 @@ struct CircleImage: View {
 
 
 #Preview {
-    CircleImage()
+    CircleImage(image: Image("turtlerock"))
 }
 
