@@ -1,4 +1,4 @@
-Apple Application Development, SwiftUI Landmarks
+Apple Application Development, SwiftUI, Landmarks
 
 ---
 
